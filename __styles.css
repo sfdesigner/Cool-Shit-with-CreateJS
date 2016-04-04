@@ -1,0 +1,14 @@
+/* Universal style sheet */
+body {
+    font-family: "Segoe UI", "San Francisco", "Verdana", "Helvetica", sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    color: #18D;
+    border-bottom: 1px solid #18D;
+}
+
+p {
+    font-size: 1em;
+}
